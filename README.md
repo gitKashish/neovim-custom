@@ -11,6 +11,7 @@
 - LSP Config : [Mason-Lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
 - Neovim LSP Config : [Nvim-Lspconfig](https://github.com/neovim/nvim-lspconfig)
 - Code Parser : [Nvim-Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- Terminal Toggle : [Toggleterm](https://github.com/akinsho/toggleterm.nvim)
 > [!NOTE]
 > This config is under development. The LSP has not yet been configured for auto-completion, linting and formatting.
 > Also some keybindings are missing still.
