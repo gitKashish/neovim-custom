@@ -3,4 +3,5 @@ vim.keymap.set('n', '<C-j>', '<C-w><C-j>', {})
 vim.keymap.set('n', '<C-k>', '<C-w><C-k>', {})
 vim.keymap.set('n', '<C-l>', '<C-w><C-l>', {})
 vim.keymap.set('n', ';', ':', {})
+vim.keymap.set('t', '<Esc>', '<C-\\><C-n>', {})
 
