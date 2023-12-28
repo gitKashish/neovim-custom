@@ -6,7 +6,7 @@ return {
             open_mapping = [[<C-\>]],
             direction = "horizontal",
             shading_factor = "1",
-            shade_temrinals = true,
+            shade_terminals= true,
             start_in_insert = true,
         })
     end
