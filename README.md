@@ -14,4 +14,4 @@
 - Terminal Toggle : [Toggleterm](https://github.com/akinsho/toggleterm.nvim)
 > [!NOTE]
 > This config is under development. The LSP has not yet been configured for auto-completion, linting and formatting.
-> Also some keybindings are missing still.
+> some keybindings are missing still.
