@@ -5,13 +5,11 @@
 - Package Manager : [Lazy.Nvim](https://github.com/folke/lazy.nvim)
 - Color Theme : [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Status Line : [Lualine.Nvim](https://github.com/nvim-lualine/lualine.nvim)
-- File Explorer : [NeoTree.Nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - Fuzzy Finder : [Telescope + ui-select](https://github.com/nvim-telescope/telescope.nvim)
 - LSP : [Mason](https://github.com/williamboman/mason.nvim)
 - LSP Config : [Mason-Lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
 - Neovim LSP Config : [Nvim-Lspconfig](https://github.com/neovim/nvim-lspconfig)
 - Code Parser : [Nvim-Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- Terminal Toggle : [Toggleterm](https://github.com/akinsho/toggleterm.nvim)
 > [!NOTE]
 > This config is under development. The LSP has not yet been configured for auto-completion, linting and formatting.
 > some keybindings are missing still.
