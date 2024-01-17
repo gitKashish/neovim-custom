@@ -4,4 +4,7 @@ vim.keymap.set('n', '<C-k>', '<C-w><C-k>', {})
 vim.keymap.set('n', '<C-l>', '<C-w><C-l>', {})
 vim.keymap.set('n', ';', ':', {})
 vim.keymap.set('t', '<Esc>', '<C-\\><C-n>', {})
-
+vim.keymap.set('n', '<leader>ee', ':Lex<CR>', {})
+vim.keymap.set('n', '<leader>ed', ':Lex %:p:h<CR>', {})
+vim.keymap.set('n', '<leader>v', ':vsplit<CR>', {})
+vim.keymap.set('n', '<leader>h', ':split<CR>', {})

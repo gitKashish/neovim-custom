@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.cmd("set expandtab")
@@ -30,3 +31,11 @@ require("lazy").setup("plugins")
 -- Keymaps --
 require("keymaps")
 
+--Setting Global Statusline --
+vim.opt.laststatus = 3
+
+-- Setting Netrw --
+vim.g.netrw_winsize = 30
+vim.g.netrw_banner = 0
+vim.g.list_style = 3
+vim.g.netrw_keepdir = 0
