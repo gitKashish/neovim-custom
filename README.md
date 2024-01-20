@@ -1,8 +1,11 @@
 # Usage
 - **Install Neovim** : Checkout the [Neovim](https://neovim.io/) website.
+
 - **Clone this repository** : Run the following command in your terminal.
     For Linux : `git clone https://github.com/gitKashish/neovim-custom ~/.config/nvim`
+
     For Windows : `git clone https://github.com/gitKashish/neovim-custom ~/AppData/Local/nvim`
+
 # Neovim Configuration
 ![image](https://github.com/gitKashish/neovim-custom/assets/125540624/5d0ccec5-8f9d-423d-8e84-04c351f6f821)
 
